@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "child-killer": "^1.0.0",
+    "headless": "^1.0.0",
+    "selenium-webdriver": "^2.44.0"
+  }
+}
