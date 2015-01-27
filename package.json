@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "//": "apt-get install flashplugin-installer imagemagick",
     "child-killer": "^1.0.0",
+    "gm": "^1.17.0",
     "headless": "^1.0.0",
     "selenium-webdriver": "^2.44.0"
   }
